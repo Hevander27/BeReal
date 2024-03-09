@@ -30,7 +30,7 @@ The following **additional** features are implemented:
 - [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
-<img src='https://imgur.com/a/QO4J9LH.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+https://imgur.com/a/QO4J9LH.gif
 
 
 

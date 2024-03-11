@@ -31,7 +31,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-<img src='https://i.imgur.com/SjvahDY.gif' />
+https://i.imgur.com/SjvahDY.gif
 
 
 
